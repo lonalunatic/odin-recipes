@@ -1,0 +1,28 @@
+.title {
+	text-align: center;
+	background-color: #00b3b3;
+	color: #ffffe6;
+
+}
+
+.title.big {
+	font-size: 40px;
+}
+
+div {
+	font-family: "Papyrus", "Copperplate", Times New Roman;
+	font-size: 20px;
+	text-align: center;
+}
+
+.center {
+	text-align: center;
+}
+img {
+	width: 500px;
+	height: auto;
+}
+
+.background {
+	background-color: #d6f5d6;
+}
